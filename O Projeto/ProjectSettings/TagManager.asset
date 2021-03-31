@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pushable
+  - Pai
+  - Filho
+  - Canto
+  - CostasPai
+  - Ar
+  - NextLevel
+  - Ocheck
+  - Morte
+  - pushableLeft
+  - Seguro
+  - Agentes
+  - Zoom1
+  - Zoom2
+  - Zoom3
+  - AndandoBixu
+  - PararMaquina
+  - Maquina
+  - Zoom4
+  - Morte2
+  - Escolhas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Pai
+  - Filho
+  - Ladder
+  - quina
+  - EmpurrarFilho
+  - Carro
+  - Torto
+  - Teto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3522706659
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ladder
+    uniqueID: 1227404153
+    locked: 0
